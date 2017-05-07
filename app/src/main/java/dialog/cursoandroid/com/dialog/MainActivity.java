@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity {
                 diaglog.setCancelable(false);
                 diaglog.setIcon(android.R.drawable.ic_delete);
 
-                //botao negativo
+                //botao negativo.
                 diaglog.setNegativeButton("Não",
                         new DialogInterface.OnClickListener() {
                             @Override
